@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329287238901",
+    "project_id": "pushnotification-jeeva-raksha",
+    "storage_bucket": "pushnotification-jeeva-raksha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329287238901:android:7ad52bf619dda7e8bd31bc",
+        "android_client_info": {
+          "package_name": "com.example.jeevaraksha_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqwudNAIurrXEq0X4VVzyF4RctZOc0E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
